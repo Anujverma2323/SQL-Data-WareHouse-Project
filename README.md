@@ -49,7 +49,7 @@ Reporting and business intelligence queries for generating insights.
 ```text
 ├── datasets/
 ├── scripts/
-│   ├── staging/
+│   ├── init_database/
 │   ├── transformations/
 │   └── warehouse/
 ├── docs/
